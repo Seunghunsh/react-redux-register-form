@@ -1,8 +1,15 @@
 # react-redux-register-form
-Nested forms using create-react-app, redux-form.
-Currently it validates, First Name, Last Name, Email, Bank Account IBAN, Bank Name using 'iban' library, regex.
+[Live Demo](https://biographer-ada-38367.netlify.com)
 
-Clone the repo, cd into the repo, run 'yarn install && yarn start' or 'npm install && npm start'.
+Nested forms using create-react-app, redux-form.
+Currently it validates, First Name, Last Name, Email, Bank Account IBAN, Bank Name using `iban` library, regex.
+
+## To Run
+Clone the repo, cd into the repo, run
+
+`yarn install && yarn start` or
+
+`npm install && npm start`
 
 Things to do next:
 custom styling,
